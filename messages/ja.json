@@ -1,0 +1,11 @@
+{
+  "Header": {
+    "navbar": {
+      "logoTitle": "Dinh Cong Thanh",
+      "myCv": "私のCV",
+      "portfolio": "プロジェクト",
+      "news": "ニュース",
+      "contact": "お問い合わせ"
+    }
+  }
+}

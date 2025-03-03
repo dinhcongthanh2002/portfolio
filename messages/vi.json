@@ -1,0 +1,12 @@
+{
+  "Header": {
+    "navbar": {
+      "logoTitle": "Đinh Công Thành",
+      "myCv": "CV của tôi",
+      "portfolio": "Dự án",
+      "news": "Tin tức",
+      "contact": "Liên hệ",
+      "language": "Ngôn ngữ"
+    }
+  }
+}
