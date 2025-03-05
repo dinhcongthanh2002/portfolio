@@ -2,8 +2,6 @@ import { usePathname, useRouter } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Select, Space } from "antd";
-import { startTransition } from "react";
-import { Locale } from "antd/es/locale";
 import Image from "next/image";
 
 const AppHeader: React.FC = () => {
