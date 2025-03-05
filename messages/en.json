@@ -7,5 +7,8 @@
       "news": "News",
       "contact": "Contact"
     }
+  },
+  "Footer": {
+    "copyRight": "© {year} Dinh Cong Thanh. All Rights Reserved."
   }
 }

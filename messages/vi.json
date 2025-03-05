@@ -8,5 +8,8 @@
       "contact": "Liên hệ",
       "language": "Ngôn ngữ"
     }
+  },
+  "Footer": {
+    "copyRight": "© {year} Dinh Cong Thanh. All Rights Reserved."
   }
 }
